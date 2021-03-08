@@ -1,1 +1,2 @@
 echo hello bash
+./countdown.sh 5
