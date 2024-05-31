@@ -12,3 +12,13 @@ __vsc_prompt_cmd_original
 echo $?
 clear
 [[ 4 -ge 5 ]]
+__vsc_prompt_cmd_original
+help test
+help if
+man
+help
+man if
+help if
+help [[ expression ]]
+[[ 10 -ne 5 ]]
+[[ 10 -ne 5 ]]
