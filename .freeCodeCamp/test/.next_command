@@ -22,3 +22,6 @@ help if
 help [[ expression ]]
 [[ 10 -ne 5 ]]
 [[ 10 -ne 5 ]]
+help test
+sdlfasfjl
+bad_command
